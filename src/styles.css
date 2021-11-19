@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.card {
+  padding: 2rem;
+  margin: 1rem;
+  background-color: wheat;
+}
+.add-btn {
+  background-color: black;
+  color: white;
+}
